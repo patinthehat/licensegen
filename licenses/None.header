@@ -1,0 +1,5 @@
+/*
+
+  Copyright {{.Year}} {{if .Author.FirstName }}{{title .Author.FirstName}} {{title .Author.LastName}}{{end}}
+
+*/

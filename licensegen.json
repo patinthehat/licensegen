@@ -8,6 +8,9 @@
   "Licenses": [
     { "Name": "MIT",        "LicenseFile":"licenses/MIT.license",         "HeaderFile":"licenses/MIT.header" },
     { "Name": "Apache-2.0", "LicenseFile":"licenses/Apache-2.0.license",  "HeaderFile":"licenses/Apache-2.0.header" },
-    { "Name": "GPL-2.0",    "LicenseFile":"licenses/GPL-2.0.license",     "HeaderFile":"licenses/GPL-2.0.header" }
+    { "Name": "GPL-2.0",    "LicenseFile":"licenses/GPL-2.0.license",     "HeaderFile":"licenses/GPL-2.0.header" },
+    { "Name": "GPL-3.0",    "LicenseFile":"licenses/GPL-3.0.license",     "HeaderFile":"licenses/GPL-3.0.header" },
+    { "Name": "MPL-2.0",    "LicenseFile":"licenses/MPL-2.0.license",     "HeaderFile":"licenses/MPL-2.0.header" },
+    { "Name": "None",       "LicenseFile":"licenses/None.license",        "HeaderFile":"licenses/None.header" }
   ]
 }
