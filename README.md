@@ -23,7 +23,7 @@ After cloning the repository, you must create a configuration file for `licenseg
 
 Here is a default `licensegen.json`:
 
-```
+```json
 { 
    "Author": {
     "FirstName":"firstname",
@@ -45,7 +45,7 @@ To make a new license template available, you must:
   - Create a `NAME.license` file in the `licenses/` directory, containing the contents of the license with variables such as Year replaced with the appropriate go template variable.  _See existing license templates for available template variables._
   - Create a `NAME.header` file in the `licenses/` directory, also with the appropriate template variables.
   - Add a new entry to `licensegen.json`, under "Licenses": 
-```
+```json
 { "Name": "NAME", "LicenseFile":"licenses/NAME.license", "HeaderFile":"licenses/NAME.header" }
 ```
 
