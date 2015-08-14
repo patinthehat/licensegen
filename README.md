@@ -88,12 +88,13 @@ The `LICENSE_FILE_HEADER` file contains a commented header to insert at the top 
 #### @todo ####
 ---
 
-  [x] complete the README
-  [x] add README entry to explain how to add new license templates
-  [x] add more license templates
-  [ ] add interactive mode when started with -i flag
+  - ~~complete the README~~
+  - ~~add README entry to explain how to add new license templates~~
+  - ~~add more license templates~~
+  - add interactive mode when started with -i flag
 
 ---
 #### Licensing ####
 ---
+
 `licensegen` is open source software, available under the [MIT license](LICENSE).
